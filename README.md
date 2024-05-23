@@ -3,7 +3,6 @@
 - 👀 I’m interested in embedded software engineering and computational physics
 - 🌱 I’m currently learning embedded software design and engineering through UCIs ESE certificate program
 - 💞️ I’m looking to collaborate on anything interesting
-- 📫 How to reach me agcoda@gmail.com
 
 <!---
 agcoda/agcoda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
